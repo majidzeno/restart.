@@ -1,0 +1,149 @@
+@import url(https://fonts.googleapis.com/css?family=Pacifico);
+#navo li a{
+  color: white;
+}
+#navo li a:hover{
+color:#7DFEBB;
+}
+#navo li .active{
+  color:#7DFEBB;
+  font-size: 100px;
+}
+.navbar-brand{
+  left: 335px;
+  position: relative;
+}
+#home > img {
+  object-fit : cover;
+   position: relative; 
+  background-repeat: no-repeat;
+  text-align: center;
+  max-width: 1280px;
+  margin-top: -30px;
+	}
+#home h1{
+  font-family: 'Pacifico', cursive;
+}
+.cover{
+  object-fit: cover;
+}
+#home > h1{
+   position: absolute; 
+   top: 290px; 
+   left: 30%; 
+  color:#7DFEBB;
+  font-family:
+}
+
+#about{
+  text-align: center;
+}
+
+
+#service{
+  background-color:#eee;
+  text-align: center;
+  margin-top: 85px;
+}
+#service  img {
+  margin-top: 85px;
+}
+#service .thumbnail {
+  margin-bottom: 85px;
+  border: 1px solid #eee;
+  background-color: #eee;
+}
+}
+.caption{
+  margin-bottom: 50px;
+}
+#portfolio{
+  text-align: center;
+}
+#portfolio img{
+  line-height: 0;
+  width: 100% !important;
+  height: auto !important;
+}
+#portfolio .btn{
+  background-color: #7DFEBB;
+  border-color: #7DFEBB;
+  padding: 8px 40px;
+  font-weight: 600;
+}
+#testmonial{
+  text-align: center;
+}
+.right.carousel-control, .left.carousel-control {
+    display: none;
+}
+
+.carousel-inner{
+  text-align: center;
+}
+.carousel-content{
+  color:black;
+  display:flex;
+  align-items:center;
+  background: red;
+}
+.carousel-indicators li{
+  background-color: black;
+}
+.carousel-indicators .active {
+  background-color: #7DFEBB;
+}
+#contact{
+  background-color: black;
+  text-align: center;
+  color: white;
+}
+.icon{
+  width: 30px;
+  height: 30px;
+  background-color: #7DFEBB;
+    position: relative;
+  display: inline-block;
+    border-radius:25%;
+}
+.icon img{
+  width: 30px;
+  height: 30px;
+}
+#rectangle {
+  width: 113px;
+  height: 5px;
+  background: #7DFEBB;
+  position: relative;
+  left: 46%;
+}
+.copyright{
+  margin:15px;
+  line-height: 2;
+
+}
+.links>pre{
+  background-color: black;
+  color: white;
+  border-color: black;
+}
+.links a {
+  color: white;
+}
+.links a:hover , a:focus{
+  color: #7DFEBB;
+  text-decoration: none;
+}
+
+
+
+.design .btn {
+  padding: 5px 10px;
+  margin: 15px;
+  font-size: 20px;
+  font-weight: 800;
+  line-height: 1;
+  position: relative;
+  left: 400px;
+  border-radius: 0px;
+}
